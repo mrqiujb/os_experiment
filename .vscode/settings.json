@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "kernel.h": "c",
+        "sysinfo.h": "c",
+        "init.h": "c",
+        "types.h": "c",
+        "list.h": "c",
+        "const.h": "c",
+        "stddef.h": "c",
+        "linkage.h": "c",
+        "export.h": "c",
+        "pid_manager.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

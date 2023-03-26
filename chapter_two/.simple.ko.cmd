@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/os_experiment/chapter_two/simple.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/ubuntu/os_experiment/chapter_two/simple.ko /home/ubuntu/os_experiment/chapter_two/simple.o /home/ubuntu/os_experiment/chapter_two/simple.mod.o;  true

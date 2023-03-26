@@ -1,0 +1,2 @@
+/home/ubuntu/os_experiment/chapter_two/simple.o
+
